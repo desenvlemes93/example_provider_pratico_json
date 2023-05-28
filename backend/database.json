@@ -1,0 +1,42 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "Ricardo Lemes",
+            "email": "ricardofilho182@gmail.com",
+            "password": "123"
+        }        
+    ],   
+    "products": [
+        {
+            "id": 0,
+            "name": "Teste XXX",
+			"preco": 50
+	
+        },
+        {
+            "id": 1,
+           "name": "analise Provider",
+		   "preco": 90
+			
+        },
+        {
+            "id": 2,
+            "name": "novo produto",
+			"preco": 5
+			
+        },
+		{
+            "id": 3,
+            "name": "Academia do Flutter",
+			"preco": 100
+			
+        },
+		{
+            "id": 4,
+            "name": "X Tudo",
+			"preco": 30
+			
+        }
+    ]
+}
